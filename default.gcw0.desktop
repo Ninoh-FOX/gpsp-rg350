@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Gpsp
+Comment=GBA emulator
+Exec=gpsp.dge %f
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=gpsp
+Categories=emulators;
+Name[es_ES.utf8]=gpsp
